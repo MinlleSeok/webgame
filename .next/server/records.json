@@ -33,17 +33,22 @@
       "static\\pN0UPS3qaLlEnXI0s5ytg\\pages\\_document.js": 3,
       "static\\pN0UPS3qaLlEnXI0s5ytg\\pages\\_error.js": 4,
       "static\\pN0UPS3qaLlEnXI0s5ytg\\pages\\about.js": 5,
-      "static\\pN0UPS3qaLlEnXI0s5ytg\\pages\\index.js": 6
+      "static\\pN0UPS3qaLlEnXI0s5ytg\\pages\\index.js": 6,
+      "static\\-wGuphQe7RH8sC5OqDbxc\\pages\\_app.js": 7,
+      "static\\-wGuphQe7RH8sC5OqDbxc\\pages\\_document.js": 8,
+      "static\\-wGuphQe7RH8sC5OqDbxc\\pages\\_error.js": 9,
+      "static\\-wGuphQe7RH8sC5OqDbxc\\pages\\about.js": 10,
+      "static\\-wGuphQe7RH8sC5OqDbxc\\pages\\index.js": 11
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      2,
-      3,
-      4,
-      5,
-      6
+      10,
+      11,
+      7,
+      8,
+      9
     ]
   }
 }
