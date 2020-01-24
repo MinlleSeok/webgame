@@ -1,0 +1,68 @@
+{
+  "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!node_modules/postcss-loader/src/index.js??__nextjs_postcss!pages/index.module.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=next%2Fdist%2Fpages%2F_app! node_modules/next/dist/client/router.js": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "framework": 2,
+      "static/runtime/main.js": 3,
+      "static/runtime/polyfills.js": 4,
+      "static\\1MaxuNgyZSyTqqx8yF8SF\\pages\\_app.js": 5,
+      "static\\1MaxuNgyZSyTqqx8yF8SF\\pages\\_error.js": 6,
+      "static\\1MaxuNgyZSyTqqx8yF8SF\\pages\\about.js": 7,
+      "static\\1MaxuNgyZSyTqqx8yF8SF\\pages\\index.js": 8,
+      "static\\7vvNIh-5mcjfK2gFdHsJ0\\pages\\_app.js": 9,
+      "static\\7vvNIh-5mcjfK2gFdHsJ0\\pages\\_error.js": 10,
+      "static\\7vvNIh-5mcjfK2gFdHsJ0\\pages\\about.js": 11,
+      "static\\7vvNIh-5mcjfK2gFdHsJ0\\pages\\index.js": 12,
+      "static\\qyiqY1aIxo7va8tqT0D6j\\pages\\_app.js": 5,
+      "static\\qyiqY1aIxo7va8tqT0D6j\\pages\\_error.js": 6,
+      "static\\qyiqY1aIxo7va8tqT0D6j\\pages\\about.js": 7,
+      "static\\qyiqY1aIxo7va8tqT0D6j\\pages\\index.js": 8,
+      "static\\wPbNYCVpzGagWRkoPwN7T\\pages\\_app.js": 9,
+      "static\\wPbNYCVpzGagWRkoPwN7T\\pages\\_error.js": 10,
+      "static\\wPbNYCVpzGagWRkoPwN7T\\pages\\about.js": 11,
+      "static\\wPbNYCVpzGagWRkoPwN7T\\pages\\index.js": 12,
+      "static\\2RT4fiDKDxw8iBcGWXZpF\\pages\\_app.js": 5,
+      "static\\2RT4fiDKDxw8iBcGWXZpF\\pages\\_error.js": 6,
+      "static\\2RT4fiDKDxw8iBcGWXZpF\\pages\\about.js": 7,
+      "static\\2RT4fiDKDxw8iBcGWXZpF\\pages\\index.js": 8
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}
